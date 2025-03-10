@@ -12,9 +12,9 @@ int main()
 	while (num != a)
 	{
 		if (num < a)
-			cout << "小了" << endl;
+			cout << "脨隆脕脣" << endl;
 		else
-			cout << "大了" << endl;
+			cout << "麓贸脕脣" << endl;
 		cin >> num;
 	}
 	cout << "yes" << endl;
